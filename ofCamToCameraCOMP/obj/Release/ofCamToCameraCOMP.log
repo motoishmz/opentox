@@ -1,0 +1,14 @@
+﻿  ofApp.cpp
+C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\motoishmz\documents\codes\of\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(52): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\motoishmz\documents\codes\of\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+     Creating library bin\ofCamToCameraCOMP.lib and object bin\ofCamToCameraCOMP.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  ofCamToCameraCOMP.vcxproj -> C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\apps\myApps\ofCamToCameraCOMP\bin\ofCamToCameraCOMP.exe
+  
+  	                   9	C:\Users\motoishmz\Documents\Codes\OF\of_v0.9.8_vs_release\export\vs\x64\
